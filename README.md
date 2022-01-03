@@ -1,3 +1,19 @@
+  <p> Redux-Toolkit, React-Router, styled-components, firebase</p>
+ <img src="demo/1.jpg" alt="Disney" width="550px">
+  <img src="demo/demo-2.jpg" alt="Disney" width="550px">
+  <img src="demo/demo-3.jpg" alt="Disney" width="550px">
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
