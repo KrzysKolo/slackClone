@@ -1,7 +1,7 @@
   <p> Redux-Toolkit, React-Router, styled-components, firebase</p>
- <img src="demo/1.jpg" alt="Disney" width="550px">
-  <img src="demo/demo-2.jpg" alt="Disney" width="550px">
-  <img src="demo/demo-3.jpg" alt="Disney" width="550px">
+ <img src="demo/1.jpg" alt="Slack" width="550px">
+  <img src="demo/demo-2.jpg" alt="Slack" width="550px">
+  <img src="demo/demo-3.jpg" alt="Slack" width="550px">
 
 
 
