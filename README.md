@@ -1,7 +1,7 @@
   <p> React, Redux/Toolkit, Styled-Components, Material-UI, Firebase, Firebase-Hooks, Firebase-Auth</p>
- <img src="demo/1.jpg" alt="Slack" width="550px">
-  <img src="demo/demo-2.jpg" alt="Slack" width="550px">
-  <img src="demo/demo-3.jpg" alt="Slack" width="550px">
+ <img src="demo/1.png" alt="Slack" width="550px">
+  <img src="demo/demo-2.png" alt="Slack" width="550px">
+  <img src="demo/demo-3.png" alt="Slack" width="550px">
 
 
 
